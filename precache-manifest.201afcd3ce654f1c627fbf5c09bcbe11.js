@@ -1,11 +1,11 @@
 self.__precacheManifest = [
   {
-    "revision": "82b4275148850e85182029ff1babe757",
-    "url": "/static/media/create_hosted_zone.82b42751.png"
+    "revision": "0822bdd0b6fafc5ba0969121c2c1a013",
+    "url": "/static/media/create_sass_starter.0822bdd0.png"
   },
   {
-    "revision": "914e5aaa0f7c7a59606d",
-    "url": "/static/css/main.e85e67fd.chunk.css"
+    "revision": "0e79441d67c0b22b405b",
+    "url": "/static/css/main.3bcd3598.chunk.css"
   },
   {
     "revision": "42ac5946195a7306e2a5",
@@ -16,7 +16,7 @@ self.__precacheManifest = [
     "url": "/static/media/sw_upload_files.493f200c.png"
   },
   {
-    "revision": "e0afc00ee414d1d7a613",
+    "revision": "668bacf832dec1a7a498",
     "url": "/static/js/2.a93a8cb7.chunk.js"
   },
   {
@@ -56,12 +56,16 @@ self.__precacheManifest = [
     "url": "/static/media/create_bucket_review.462810c2.png"
   },
   {
-    "revision": "914e5aaa0f7c7a59606d",
-    "url": "/static/js/main.13c6e453.chunk.js"
+    "revision": "82b4275148850e85182029ff1babe757",
+    "url": "/static/media/create_hosted_zone.82b42751.png"
   },
   {
     "revision": "7414163434ddcb2d908c0f155bccadf8",
     "url": "/static/media/create_hosted_zone_pane.74141634.png"
+  },
+  {
+    "revision": "0e79441d67c0b22b405b",
+    "url": "/static/js/main.9bd48d1a.chunk.js"
   },
   {
     "revision": "de6a8c3fcc44b3968572fffefb27bcbd",
@@ -80,12 +84,20 @@ self.__precacheManifest = [
     "url": "/static/media/godaddy_nameservers.aff27221.png"
   },
   {
+    "revision": "058dd4916f8f91825a7a53f726f388ef",
+    "url": "/static/media/goto_sass_starter.058dd491.png"
+  },
+  {
     "revision": "bd5fe5cf76dec43fe43919dbc426c5ff",
     "url": "/static/media/hosted_zone_nameservers.bd5fe5cf.png"
   },
   {
     "revision": "1c26f25f64d3079cbf1cfae8252fba47",
     "url": "/static/media/manage_dns.1c26f25f.png"
+  },
+  {
+    "revision": "00196d3369a68886eb5413cfdd565425",
+    "url": "/static/media/npm_init_sass.00196d33.png"
   },
   {
     "revision": "c8a45ac237f750d7cc2dce318e654edd",
@@ -108,11 +120,11 @@ self.__precacheManifest = [
     "url": "/static/media/search_s3.22ba40bb.png"
   },
   {
-    "revision": "e0afc00ee414d1d7a613",
-    "url": "/static/css/2.81b51997.chunk.css"
+    "revision": "668bacf832dec1a7a498",
+    "url": "/static/css/2.c8edc0b7.chunk.css"
   },
   {
-    "revision": "7e4a30466705256d8c782eafc2c1aaf4",
+    "revision": "00aba55cd80912a98eb39f3bbe309c90",
     "url": "/index.html"
   }
 ];
